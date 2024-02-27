@@ -1,4 +1,4 @@
 export const siteConfig = {
-  name: 'Next.js template',
-  description: `Next.js template with TypeScript, ESLint, Prettier, Tailwind CSS.`,
+  name: `Emmanuel Cañate's portfolio - Software Engineer and Web Developer`,
+  description: `Hire Emmanuel Cañate to create your web or mobile application. Web Developer and Software Engineer. Specialized in creating unique applications`,
 };
